@@ -1,0 +1,48 @@
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.exe
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.deps.json
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.runtimeconfig.json
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.pdb
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\ClosedXML.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\ClosedXML.Parser.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\DocumentFormat.OpenXml.Framework.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\RBush.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.AssemblyReference.cache
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.AssemblyInfoInputs.cache
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.AssemblyInfo.cs
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.CoreCompileInputs.cache
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.CopyComplete
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\refint\Renameimage.dll
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.pdb
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.genruntimeconfig.cache
+D:\Arasu\Console Application\Renameimage\Renameimage\obj\Debug\net6.0\ref\Renameimage.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.exe
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.deps.json
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.runtimeconfig.json
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\Renameimage.pdb
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\ClosedXML.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\ClosedXML.Parser.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\DocumentFormat.OpenXml.Framework.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\RBush.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Renameimage\Renameimage\Renameimage\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.AssemblyReference.cache
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.AssemblyInfoInputs.cache
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.AssemblyInfo.cs
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.CoreCompileInputs.cache
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.csproj.CopyComplete
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.dll
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\refint\Renameimage.dll
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.pdb
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\Renameimage.genruntimeconfig.cache
+D:\Renameimage\Renameimage\Renameimage\obj\Debug\net6.0\ref\Renameimage.dll
