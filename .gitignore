@@ -1,0 +1,59 @@
+# Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore MonoDevelop
+*.userprefs
+
+# Ignore Rider IDE
+.idea/
+*.sln.iml
+
+# Ignore JetBrains Rider logs
+.idea/
+.idea_modules/
+.idea_workspace/
+*.iml
+
+# Ignore Visual Studio Code settings
+.vscode/
+.vscode/*
+
+# Ignore packages folder (NuGet)
+packages/
+*.nupkg
+
+# Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore test result files
+*.trx
+*.coverage
+TestResult*/ 
+
+# Ignore publishing files
+*.publishsettings
+
+# Ignore application files
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore other unwanted files
+*.vspscc
+*.vssscc
+*.dbmdl
